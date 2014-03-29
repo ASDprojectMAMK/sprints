@@ -1,0 +1,62 @@
+body {
+background: #404040;
+}
+#table1{
+width: 95%;
+}
+
+#table2{
+width: 95%;
+height: 100%;
+}
+
+#table3{
+width: 80%;
+height: 90%;
+padding: 5%
+}
+
+input{
+width:200px;
+}
+
+/*Header*/
+#neworder{
+background: #505050;
+font-size: 30px;
+padding-left:35px;
+line-height: 135px;
+}
+
+#menu{
+height: 30px;
+font-size: 20px;
+color: #ffffff;
+text-align: center;
+line-height: 30px;
+border: 1px solid #707070;
+}
+#menu:hover{
+background:#707070;
+}
+
+/*CONTEXT*/
+#context{
+background: #d5ddde;
+height: 100%;
+font-size: 17px;
+padding-left: 20px;
+padding-right: 20px;
+color: white;
+}
+
+#aside{
+background: #d5ddde;
+height: 100%;
+font-size: 20px;
+line-height: 50px;
+padding-left: 20px;
+padding-right: 20px;
+text-align: center;
+color: #2fb1bf;
+}

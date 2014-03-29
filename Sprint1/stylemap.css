@@ -1,0 +1,51 @@
+body {
+background: #404040;
+}
+table{
+width: 100%;
+}
+
+/*Header*/
+#map{
+background: #9933FF;
+font-size: 30px;
+padding-left:35px;
+line-height: 135px;
+float:left;
+width:50%;
+}
+#logo{
+text-align:right;
+float: left;
+width:40%;
+padding-top:20px;
+}
+
+#menu{
+height: 30px;
+font-size: 20px;
+color: #ffffff;
+text-align: center;
+line-height: 30px;
+border: 1px solid #707070;
+}
+#menu:hover{
+background:#707070;
+}
+
+
+/*CONTEXT*/
+
+#aside{
+background: #d5ddde;
+min-height: 700px;
+padding-left: 20px;
+padding-right: 20px;
+text-align: center;
+}
+
+#googleMap{
+background: #d5ddde;
+min-height: 700px;
+width: 100%;
+}
